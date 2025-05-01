@@ -338,9 +338,9 @@ export default function HomePage() {
   ];
 
   return (
-    <div>
+    <div className="min-h-screen w-full">
       {/* Hero Section */}
-      <section className="h-screen flex flex-col items-center justify-center text-center px-4">
+      <section className="min-h-screen w-full flex flex-col items-center justify-center text-center px-4">
         <h1 className="text-5xl font-bold">Les Greys</h1>
         <p className="mt-4 text-xl max-w-xl">
           Writing and working on the adoption of technology.
