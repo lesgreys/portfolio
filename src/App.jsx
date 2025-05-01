@@ -10,7 +10,7 @@ export default function HomePage() {
       description: "Exploring how transition from legacy identity systems for the benefit of business and consumer.",
       expandedContent: (
         <div className="mt-4 space-y-4">
-          <p className="text-gray-700">
+          <p className="text-gray-700 dark:text-gray-300">
             Self-sovereign identity (SSI) represents a paradigm shift in how we manage digital identities.
             This project explores the technical and social implications of implementing SSI at scale.
           </p>
@@ -61,7 +61,7 @@ export default function HomePage() {
       description: "Blockchains enable better checkout experiences for consumers and greater liquitidy environments for business.",
       expandedContent: (
         <div className="mt-4 space-y-4">
-          <p className="text-gray-700">
+          <p className="text-gray-700 dark:text-gray-300">
             Blockchain technology is revolutionizing payment systems by enabling faster, more secure,
             and more transparent transactions.
           </p>
@@ -112,7 +112,7 @@ export default function HomePage() {
       description: "Exploring how AI shrinks the gap between idea to monetization for businesses and consumers.",
       expandedContent: (
         <div className="mt-4 space-y-4">
-          <p className="text-gray-700">
+          <p className="text-gray-700 dark:text-gray-300">
             AI agents are transforming how businesses operate and innovate, enabling faster
             development cycles and more efficient operations.
           </p>
@@ -163,7 +163,7 @@ export default function HomePage() {
       description: "Exploring how decentralized social media networks (DeSo) create new design principles for network effects.",
       expandedContent: (
         <div className="mt-4 space-y-4">
-          <p className="text-gray-700">
+          <p className="text-gray-700 dark:text-gray-300">
             Decentralized social media networks are redefining how we think about social connections,
             content ownership, and network effects in the digital age.
           </p>
@@ -214,7 +214,7 @@ export default function HomePage() {
       description: "Transforming education systems to prepare learners for the future of work through technology adoption and skill development.",
       expandedContent: (
         <div className="mt-4 space-y-4">
-          <p className="text-gray-700">
+          <p className="text-gray-700 dark:text-gray-300">
             The rapid evolution of technology and work requires a fundamental shift in how we approach education.
             This project explores how to bridge the gap between traditional education and the skills needed
             for tomorrow's workforce, with a focus on practical implementation and measurable outcomes.
@@ -273,7 +273,7 @@ export default function HomePage() {
       description: "Exploring the intersection of technology, society, and innovation through various lenses and perspectives.",
       expandedContent: (
         <div className="mt-4 space-y-4">
-          <p className="text-gray-700">
+          <p className="text-gray-700 dark:text-gray-300">
             A collection of thoughts, analyses, and explorations on emerging technologies, their societal impact,
             and the future of human-machine collaboration. These writings aim to bridge the gap between
             technical innovation and human understanding.
