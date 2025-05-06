@@ -87,8 +87,8 @@ export default function HomePage() {
             <h4 className="font-medium mb-3">References</h4>
             <ul className="space-y-2">
               <li>
-                <a href="https://ethereum.org/en/developers/docs/smart-contracts/" className="text-blue-600 hover:text-blue-800" target="_blank" rel="noopener noreferrer">
-                  Ethereum Smart Contracts
+                <a href="https://a16zcrypto.com/posts/article/stablecoin-guide-what-why-how/" className="text-blue-600 hover:text-blue-800" target="_blank" rel="noopener noreferrer">
+                  a16z Guide to Stablecoins
                 </a>
               </li>
               <li>
